@@ -48,6 +48,10 @@ No tests are available at this time.
 
 Github: [ag-bootcamp-umn](https://github.com/ag-bootcamp-umn)
 
+## Credits
+
+Much appreciation to my instructor and teaching assistants, Gary Almes, Katy Vincent, Jessica Guico, and my tutor, Megan Meyers.
+
 ## License
 
 Licensed under the [MIT](https://opensource.org/license/mit/) license.
