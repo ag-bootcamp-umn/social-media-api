@@ -1,0 +1,66 @@
+{
+  "users": [
+    { "username": "ngritton0", "email": "sthornbarrow0@cmu.edu" },
+    { "username": "zdiiorio1", "email": "hwoodvine1@weather.com" },
+    { "username": "dbeasley2", "email": "bstennett2@nyu.edu" },
+    { "username": "cmellor3", "email": "hcullotey3@soundcloud.com" },
+    { "username": "ldurie4", "email": "fdun4@japanpost.jp" },
+    { "username": "bmcdavid5", "email": "tfarbrother5@bing.com" },
+    { "username": "gqueste6", "email": "strevino6@g.co" },
+    { "username": "rrisby7", "email": "dmacarte7@blogs.com" }
+  ],
+  "thoughts": [
+    {
+      "username": "ngritton0",
+      "thoughtText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus scelerisque convallis odio, nec consequat felis fermentum id. Maecenas vitae pharetra justo. Integer mollis nibh non orci fermentum.."
+    },
+    {
+      "username": "zdiiorio1",
+      "thoughtText": "Sed fermentum pharetra ligula, vel dignissim lectus volutpat at. Maecenas consequat, ante at convallis bibendum, nulla tortor placerat nulla, nec dignissim ex eros a libero. Sed vel nisl quis nisl dictum accumsan. Aliquam ac fermentum mauris."
+    },
+    {
+      "username": "dbeasley2",
+      "thoughtText": "Praesent nec justo vel mi finibus auctor. Maecenas convallis, nisi quis convallis malesuada, justo mi laoreet eros, nec lobortis risus turpis sit amet neque. Morbi tincidunt elit sit amet mi consequat, in mattis nunc fermentum."
+    },
+    {
+      "username": "cmellor3",
+      "thoughtText": "Curabitur malesuada eros eget vehicula mattis. Phasellus nec ipsum vel nunc condimentum rhoncus non eget sapien. Nulla interdum enim eget est ultricies, eu convallis sem venenatis. Proin sodales metus nec nisl pulvinar, sit amet egestas felis vestibulum."
+    },
+    {
+      "username": "ldurie4",
+      "thoughtText": "Vestibulum fermentum augue sed orci laoreet, ut scelerisque mauris aliquam. Integer quis diam id odio rutrum sollicitudin. Fusce dictum, odio at accumsan ultrices, mauris velit placerat mi, a feugiat nunc felis id sem."
+    },
+    {
+      "username": "bmcdavid5",
+      "thoughtText": "Maecenas eget dolor a ante eleifend lacinia. Nullam hendrerit nisl a libero mattis, in malesuada quam dictum. Sed consectetur augue eu tincidunt venenatis. Curabitur vehicula odio at augue vulputate, vitae suscipit lacus ultrices."
+    },
+    {
+      "username": "gqueste6",
+      "thoughtText": "Duis in nisi vel odio ultricies faucibus. Curabitur a libero vel magna tempor sollicitudin. Vivamus auctor est et ultrices hendrerit. Morbi vulputate risus sit amet nisi aliquam, et posuere magna malesuada."
+    },
+    {
+      "username": "rrisby7",
+      "thoughtText": "Pellentesque non tellus eget ante efficitur rhoncus non id lacus. Morbi interdum libero a nisi bibendum, vitae malesuada odio hendrerit. Phasellus sit amet libero in nunc fermentum sollicitudin."
+    },
+    {
+      "username": "ngritton0",
+      "thoughtText": "Quisque efficitur diam euismod est consequat, nec tincidunt justo scelerisque. Aliquam et augue suscipit, tincidunt risus vel, finibus libero. Fusce feugiat metus vel libero pellentesque lacinia. Sed non quam sed nisi vulputate pretium."
+    },
+    {
+      "username": "zdiiorio1",
+      "thoughtText": "Fusce a nunc auctor, interdum lorem sit amet, maximus ipsum. Phasellus a magna id ipsum convallis placerat nec eu urna. Mauris blandit urna id est pharetra, ut finibus nisl ultrices."
+    },
+    {
+      "username": "dbeasley2",
+      "thoughtText": "Cras commodo est eu dolor vestibulum, non gravida eros vulputate. Vestibulum sodales purus ut purus molestie tincidunt. In vel sapien nec dui hendrerit posuere. Ut malesuada urna ut vehicula aliquam."
+    },
+    {
+      "username": "cmellor3",
+      "thoughtText": "Suspendisse faucibus augue nec lacus consequat, in lobortis risus posuere. Integer et velit a odio efficitur gravida. Morbi consectetur libero id ipsum commodo, vel commodo lectus tempus."
+    },
+    {
+      "username": "cmellor3",
+      "thoughtText": "Donec non ex eu orci commodo condimentum. Cras a libero ac nulla euismod consequat. Aenean eu arcu ac purus sollicitudin condimentum vel sit amet purus."
+    }
+  ]
+}
